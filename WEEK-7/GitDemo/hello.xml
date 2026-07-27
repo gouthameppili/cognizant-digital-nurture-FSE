@@ -1,1 +1,3 @@
-<greeting>Hello from Main Branch</greeting>
+<<<<<<< HEAD
+<greeting>Hello from Main Branch and GitWork Branch (Resolved)</greeting>
+>>>>>>> GitWork
